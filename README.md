@@ -60,7 +60,7 @@ Merhaba, ben Çetin bir bilgisayar mühendisiyim. Bu repo'da size kısaca beceri
 İş birliği veya herhangi bir soru için benimle iletişime geçebilirsiniz!
 
 ✉️ Email: cetincelik0@outlook.com
-💼 LinkedIn: [LinkedIn Profiliniz](https://linkedin.com/in/cetincelik1)
+💼 LinkedIn: [LinkedIn](https://linkedin.com/in/cetincelik1)
 
 ---
 
