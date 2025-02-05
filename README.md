@@ -1,6 +1,6 @@
 ## 👋 Merhaba, Ben Çetin ÇELİK! 
 
-Ben bir bilgisayar mühendisi olaraktan **Frontend Developer** alanında modern, performanslı ve kullanıcı dostu arayüzler geliştiriyorum. Teknolojiye olan tutkum ve sürekli öğrenme isteğim sayesinde en güncel frontend teknolojileriyle projeler geliştiriyorum. 
+Ben bir **Bilgisayar Mühendisi** ve **Frontend Developer** olarak modern, performanslı ve kullanıcı dostu arayüzler geliştiriyorum. Teknolojiye olan tutkum ve sürekli öğrenme isteğim sayesinde en güncel frontend teknolojileriyle projeler geliştiriyorum. 
 
 ---
 
